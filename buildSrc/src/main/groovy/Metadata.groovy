@@ -1,0 +1,3 @@
+class Metadata {
+    String a
+}
